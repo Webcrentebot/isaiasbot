@@ -4,10 +4,10 @@ const Twit = require('twit');
  * - Insert each Twitter credential inside it's equivalent quote.
  */
 const config = {
-  consumer_key: 'co1Q1GiekJZJ4eyOtzPEbNcaz',
-  consumer_secret: 'wZaBALj1MSKX22D9smjL0IFD9611CX7VYfu2xU28hOKNtaPIky',
-  access_token: '1272323184411512833-tDthFufIur9Sul5i3TY6zUj58tIqap',
-  access_token_secret: 'fOyZgXk7uRmkqLzN5utY4oWmbF5dJfea1BruiUGNMjjoA',
+  consumer_key: 'G9bTjUa7745Iwh7AmA63delq2',
+  consumer_secret: 'TGdp2C6L01Swqlb5hdnOOZev9uMsTQtOZj0LklOqtFUK4NElBb',
+  access_token: '1258984100381294593-QQoFHm8TBA5ZyhXMl4C5wxQlRbqPpC',
+  access_token_secret: 'pinyBGZemPaO8j2aH9pGL1II5m2B1kRU5wHhcSCup4Bgt',
 };
 
 /*
@@ -18,13 +18,13 @@ const config = {
  * - If "example" is between the selected words, the bot will retweet any variation of the word:
  *   example,Example,EXAMPLE,ExAmPlE...
  */
-const words = 'sdv,flb';
+const words = 'isaias saad';
 
 /*
  * - Change 'mybot' with your bot account '@'.
  * - Example: if your account '@' is '@twitter_bot', you should write only 'twitter_bot'
  */
-const screenName = 'sdv_bot';
+const screenName = 'isaiassaad_b0t';
 
 /*
  * If you are a not a programmer, avoid changing anything on the next lines
